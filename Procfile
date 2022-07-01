@@ -1,0 +1,1 @@
+web: gunicorn plantdiseaserecognition.wsgi --log-file -
